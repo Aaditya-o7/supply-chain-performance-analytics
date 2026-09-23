@@ -6,7 +6,7 @@ Analysis of **sales, inventory, fulfillment, and shipment data** for Just In Tim
 
 The objective was to identify the reasons behind changes in business performance and uncover supply chain issues related to **inventory, product availability, and shipment delays**.
 
-**Tools:** SQL, Power BI, Power Bi
+**Tools:** SQL, Power BI, Excel
 
 ## Dashboard Preview
 
